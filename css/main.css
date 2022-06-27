@@ -284,6 +284,11 @@ i{
 /* .feature > h3, */
 .best-seller h3{
     margin-bottom: 12px; 
+    /* color: red; */
+    font-size: large;
+    color: #30475E;
+    margin-bottom: 40px;
+    margin-top: 20px;
     
 }
 
@@ -422,6 +427,8 @@ i{
   color: #333333;
   text-decoration: none;
   font-weight: bold;
+  margin-bottom: auto;
+ 
 }
 .section-title span,
 .entry-title span {
@@ -442,15 +449,22 @@ i{
 
 .entry-header .entry-meta a {
   color: #DDDDDD;
+  
 }
 .entry-content {
-  margin: 0 0 60px 0;
+  margin: 0px 0 60px 0;
   color: #333333;
 }
 .top-img{ 
     /* border-radius: 50%;  */
     width: 300px;
     height: 250px;}
+
+ .feature h3 {
+   color: #30475E;
+   margin-top: 40px;
+   margin-bottom: 40px;
+ }
 
 
 /*********************************************************************
