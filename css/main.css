@@ -588,10 +588,12 @@ i{
     width: auto;
     margin-bottom: 80px;
     margin-top: 40px;
+    text-decoration: none;
   }
   form .btn:hover{
     background-color: #30475E;
     cursor: pointer;
+    
   }
 
    /*********************************************************************
