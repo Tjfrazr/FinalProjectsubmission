@@ -109,8 +109,8 @@ body{
 
 .nav-item:hover {
     background-color: #F05454;
-    
-
+    /* padding: 0%; */
+    height: 50px;
 }
 
 img{
